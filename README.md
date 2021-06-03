@@ -1,4 +1,4 @@
-# Akamai EdgeWorkers
+# Why Akamai EdgeWorkers?
 Would you like to build amazing apps at scale by leverage the power of Edge and Serverless Computing? 
 Would you like to run custom logic closer to end-users whilst improving the performance of you app?
 
@@ -15,3 +15,7 @@ Once you add EdgeWorkers to your configuration, developers can activate code out
 * Respond with custom error responses, even when the origin is down.
 
 For more information please visit the [Akamai EdgeWorkers User Guide](https://learn.akamai.com/en-us/webhelp/edgeworkers/edgeworkers-user-guide/index.html).
+
+# What?
+In this repository you can find some serverless logic examples using Akamai EdgeWorkers. This is a good starting point if you want to play with it.
+More example can be found under the Akamai Edgeworkers Github page [here](https://github.com/akamai/edgeworkers-examples)
