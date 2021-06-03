@@ -1,0 +1,2 @@
+# Hello World Example
+In this example, you will set a response body "Hello World From Akamai EdgeWorkers" on client request and you will add the HTTP header X-Hello-World with the value "From Akamai EdgeWorkers".
